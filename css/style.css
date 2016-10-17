@@ -7,3 +7,11 @@
      your background is light. */
   color: white;
 }
+.welcome-section {
+  position: relative;
+  height: 800px;
+  width: auto;
+  background-color: #f3f3f3;
+  background: url('images/slide01.jpg') center 30% no-repeat;
+  background-size: cover;
+}
